@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "463056134709",
+    "firebase_url": "https://vital-4bc3b-default-rtdb.firebaseio.com",
+    "project_id": "vital-4bc3b",
+    "storage_bucket": "vital-4bc3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463056134709:android:9923cf22406a3b5740c77c",
+        "android_client_info": {
+          "package_name": "com.Grupo40.Vital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDseeriY4wgCJBMReZKKniyUawrPMlR2Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
