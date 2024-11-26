@@ -1,0 +1,544 @@
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\Boo.Lang.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\Microsoft.CSharp.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\mscorlib.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\netstandard.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\nunit.framework.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.AppContext.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Collections.Concurrent.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Collections.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Collections.NonGeneric.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Collections.Specialized.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.ComponentModel.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Console.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Core.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Data.Common.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Data.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Diagnostics.Debug.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Diagnostics.Process.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Diagnostics.Tools.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Drawing.Primitives.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Dynamic.Runtime.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Globalization.Calendars.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Globalization.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Globalization.Extensions.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.IO.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.IO.FileSystem.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.IO.Pipes.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Linq.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Linq.Expressions.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Linq.Parallel.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Linq.Queryable.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Net.Http.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Net.Http.Rtc.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Net.NameResolution.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Net.NetworkInformation.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Net.Ping.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Net.Primitives.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Net.Requests.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Net.Security.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Net.Sockets.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Net.WebSockets.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Numerics.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Numerics.Vectors.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.ObjectModel.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Reflection.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Reflection.Emit.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Reflection.Extensions.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Reflection.Primitives.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Resources.Reader.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Resources.ResourceManager.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Resources.Writer.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Runtime.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Runtime.Extensions.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Runtime.Handles.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Runtime.InteropServices.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Runtime.Numerics.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Runtime.Serialization.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Security.Claims.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Security.Principal.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Security.SecureString.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.ServiceModel.Http.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.ServiceModel.Security.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Text.Encoding.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Text.RegularExpressions.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Threading.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Threading.Overlapped.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Threading.Tasks.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Threading.Thread.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Threading.ThreadPool.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Threading.Timer.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.ValueTuple.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Xml.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Xml.Linq.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Xml.XDocument.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Xml.XmlDocument.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Xml.XPath.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEditor.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEditor.Graphs.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEditor.VR.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.AIModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ARModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.AudioModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ClothModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.CoreModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.GridModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.InputModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.TLSModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UIModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UNETModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.VFXModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.VideoModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.VRModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.WindModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.XRModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityScript.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityScript.Lang.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\Unity.Cecil.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\ExCSS.Unity.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\Boo.Lang.Compiler.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\Boo.Lang.Parser.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\Boo.Lang.Useful.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\Unity.CecilTools.dll
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEditor.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.AIModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ARModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.AudioModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ClothModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.CoreModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.GridModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.InputModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.TLSModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UIModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UNETModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.VFXModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.VRModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.VideoModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.WindModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.XRModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEditor.iOS.Extensions.pdb
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\nunit.framework.pdb
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\nunit.framework.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.pdb
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.pdb
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+F:\unity\prototipagem - Copia (3)\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+F:\unity\prototipagem - Copia (3)\obj\Debug\UnityEngine.TestRunner.csprojAssemblyReference.cache
+F:\unity\prototipagem - Copia (3)\obj\Debug\UnityEngine.TestRunner.csproj.CoreCompileInputs.cache
+F:\unity\prototipagem - Copia (3)\obj\Debug\UnityEngine.TestRunner.csproj.CopyComplete
+F:\unity\prototipagem - Copia (3)\obj\Debug\UnityEngine.TestRunner.dll
+F:\unity\prototipagem - Copia (3)\obj\Debug\UnityEngine.TestRunner.pdb
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\Boo.Lang.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\Microsoft.CSharp.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\mscorlib.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\netstandard.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\nunit.framework.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.AppContext.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Collections.Concurrent.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Collections.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Collections.NonGeneric.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Collections.Specialized.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.ComponentModel.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Console.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Core.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Data.Common.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Data.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Diagnostics.Debug.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Diagnostics.Process.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Diagnostics.Tools.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Drawing.Primitives.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Dynamic.Runtime.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Globalization.Calendars.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Globalization.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Globalization.Extensions.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.IO.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.IO.FileSystem.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.IO.Pipes.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Linq.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Linq.Expressions.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Linq.Parallel.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Linq.Queryable.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Net.Http.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Net.Http.Rtc.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Net.NameResolution.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Net.NetworkInformation.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Net.Ping.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Net.Primitives.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Net.Requests.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Net.Security.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Net.Sockets.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Net.WebSockets.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Numerics.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Numerics.Vectors.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.ObjectModel.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Reflection.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Reflection.Emit.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Reflection.Extensions.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Reflection.Primitives.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Resources.Reader.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Resources.ResourceManager.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Resources.Writer.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Runtime.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Runtime.Extensions.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Runtime.Handles.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Runtime.InteropServices.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Runtime.Numerics.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Runtime.Serialization.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Security.Claims.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Security.Principal.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Security.SecureString.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.ServiceModel.Http.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.ServiceModel.Security.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Text.Encoding.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Text.RegularExpressions.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Threading.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Threading.Overlapped.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Threading.Tasks.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Threading.Thread.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Threading.ThreadPool.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Threading.Timer.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.ValueTuple.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Xml.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Xml.Linq.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Xml.XDocument.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Xml.XmlDocument.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Xml.XPath.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEditor.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEditor.Graphs.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEditor.VR.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.AIModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ARModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.AudioModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ClothModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.CoreModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.GridModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.InputModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.TLSModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UIModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UNETModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.VFXModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.VideoModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.VRModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.WindModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.XRModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityScript.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityScript.Lang.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\Unity.Cecil.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\ExCSS.Unity.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\Boo.Lang.Compiler.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\Boo.Lang.Parser.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\Boo.Lang.Useful.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\Unity.CecilTools.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEditor.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.AIModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ARModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.AudioModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ClothModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.CoreModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.GridModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.InputModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.TLSModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UIModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UNETModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.VFXModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.VRModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.VideoModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.WindModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.XRModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEditor.iOS.Extensions.pdb
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\nunit.framework.pdb
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\nunit.framework.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.pdb
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.pdb
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+F:\PROJETOS Unity\VitalUnity2019\Vital\obj\Debug\UnityEngine.TestRunner.csprojAssemblyReference.cache
+F:\PROJETOS Unity\VitalUnity2019\Vital\obj\Debug\UnityEngine.TestRunner.csproj.CoreCompileInputs.cache
+F:\PROJETOS Unity\VitalUnity2019\Vital\obj\Debug\UnityEngine.TestRunner.csproj.CopyComplete
+F:\PROJETOS Unity\VitalUnity2019\Vital\obj\Debug\UnityEngine.TestRunner.dll
+F:\PROJETOS Unity\VitalUnity2019\Vital\obj\Debug\UnityEngine.TestRunner.pdb
