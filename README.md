@@ -24,9 +24,24 @@ O objetivo do **EcoMove** é promover a mobilidade sustentável, oferecendo ferr
 4. **Acompanhe seu Impacto**: Veja sua redução de pegada de carbono e acumule pontos no sistema de recompensas.
 5. **Troque Recompensas**: Use seus pontos acumulados para resgatar benefícios exclusivos.
 
+## Design, Protótipo e mapas
+
+[Design do EcoMove](https://www.figma.com/design/scN6lHIAIpP4RCHZnFKTIG/ECOMOVE?node-id=0-254&t=Ngvx0HizfuELS0A4-1)
+
+Este link leva ao design detalhado do aplicativo EcoMove no Figma. Ele apresenta as telas e elementos visuais planejados, refletindo a identidade visual e a usabilidade da aplicação.
+
+[Protótipo High-Level do EcoMove](https://www.figma.com/proto/scN6lHIAIpP4RCHZnFKTIG/ECOMOVE?node-id=0-254&node-type=frame&t=Ngvx0HizfuELS0A4-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=0%3A130&show-proto-sidebar=1)
+
+Este é um protótipo de alto nível desenvolvido no Figma para demonstrar o design e o fluxo inicial do aplicativo EcoMove. Ele inclui telas principais como splash, login e onboarding, destacando a interface intuitiva e as funcionalidades planejadas.
+
+Bem como os mapas de fluxos de usuários.
+
 ![Mapa Parte 2](https://github.com/user-attachments/assets/19d1d7f8-ef6d-432e-90dd-749271dce33a)
 
 ![Mapa Parte 1](https://github.com/user-attachments/assets/5e0342e4-736d-4307-9659-3614a8db0eaa)
+
+
+
 
 ## Tecnologias Utilizadas
 
